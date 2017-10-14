@@ -2,4 +2,6 @@
 
 Exercises and programming projects of this book.
 
+Only recorded what I couldn't memorize.
+
 ![cover](https://images-na.ssl-images-amazon.com/images/I/41%2BbFKtFHjL._SX405_BO1,204,203,200_.jpg)
